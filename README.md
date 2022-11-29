@@ -1,4 +1,4 @@
-# Pacman
+# PacMen
 Developed using Visual Studio Code for Windows, a journey learning how to combine HTML and JavaScript to develop a simple animation web application.
 ## How to install
 Place the index.html and pacmen.js files, along with the images folder in the same directory.
