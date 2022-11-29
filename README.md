@@ -1,14 +1,14 @@
 # PacMen
-Developed using Visual Studio Code for Windows, a journey learning how to combine HTML and JavaScript to develop a simple animation web application.
+Developed using Visual Studio Code for Windows, learning how to combine HTML and JavaScript into a simple animated web application.
 ## How to install
 Place the index.html and pacmen.js files, along with the images folder in the same directory.
 ## Usage
 Open the index.html in a web browser of choice and enjoy.
 ## Roadmap
-Pacman will learn how to walk vertically on the screen someday.
+Someday, Pacman will learn how to walk vertically on the screen.
 ## License
 MIT License
-Copyright (c) 2020 Dan Liljestig
+Copyright (c) 2022 Dan Liljestig
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
